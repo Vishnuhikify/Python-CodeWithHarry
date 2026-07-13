@@ -7,7 +7,7 @@ print(sum)
 
 # Converting from number to string
 a = 20
-total = str(a) + "Amith"
+total = str(a) + "Vishnu"
 print(total)
 
 # Converting to float
