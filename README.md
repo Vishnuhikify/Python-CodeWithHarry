@@ -1,51 +1,38 @@
-# Python
+<div align="center">
 
-Learning Python from scratch with the [CodeWithHarry](https://www.youtube.com/@CodeWithHarry) YouTube course — building a strong foundation through daily hands-on practice.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=180&section=header&text=Python%20Journey&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+<a href="https://www.youtube.com/@CodeWithHarry">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Learning+Python+from+scratch...;One+file%2C+one+concept+at+a+time.;CodeWithHarry+%F0%9F%90%8D+course+practice." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Consistency](https://img.shields.io/badge/Consistency-Daily%20🔥-orange?style=for-the-badge)
+
+</div>
 
 ---
 
-## About
+### 📂 What's Inside
 
-This repository is my personal practice space while working through the CodeWithHarry Python course. Each file represents a concept I've implemented and tested myself — not just copied, but understood and rewritten in my own way.
-
-## What's Covered
-
-- Variables, data types & operators
-- Conditionals and loops
-- Functions and scope
-- Lists, tuples, dictionaries & sets
-- String manipulation
-- File handling
-- Exception handling
-- Object-Oriented Programming (classes, objects, inheritance)
-
-## Structure
-
-Each topic has its own file, named for the concept it covers:
-
-```
-variables.py
-loops.py
-functions.py
-oop_basics.py
-...
-```
-
-## Running the Code
+Variables · Loops · Functions · Lists/Dicts/Sets · File Handling · OOP
+— one file per topic, all written and run by me.
 
 ```bash
 python filename.py
 ```
 
-Requires Python 3.
+<div align="center">
 
-## Why This Repo
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 
-I'm building this as I learn — consistency over perfection. Every script here is code I've written and run myself, and it reflects my progress from Python fundamentals toward more advanced concepts.
+<br/><br/>
 
----
+⭐ **Consistency over perfection.**
 
-⭐ Feel free to explore, and connect with me if you'd like to talk Python!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" />
+
+</div>
