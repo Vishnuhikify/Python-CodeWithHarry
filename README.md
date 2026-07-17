@@ -9,14 +9,10 @@
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Consistency](https://img.shields.io/badge/Consistency-Daily%20🔥-orange?style=for-the-badge)
 
 </div>
 
 ---
-
-### 📂 What's Inside
 
 Variables · Loops · Functions · Lists/Dicts/Sets · File Handling · OOP
 — one file per topic, all written and run by me.
@@ -32,7 +28,5 @@ python filename.py
 <br/><br/>
 
 ⭐ **Consistency over perfection.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" />
 
 </div>
